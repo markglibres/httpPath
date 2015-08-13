@@ -1,5 +1,5 @@
 # httpPath
-javascript utility function to add url parts
+javascript utility function to combine url parts
 
 Usage:
 
